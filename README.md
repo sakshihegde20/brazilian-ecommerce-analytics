@@ -16,23 +16,31 @@ End-to-end analytics project on the [Olist Brazilian E-Commerce dataset](https:/
 
 ## Dashboard
 
-###Executive Overview
+**Executive Overview**
+
 ![Executive Overview](images/executive-overview.png)
 
-###Revenue & Growth Analysis
+**Revenue & Growth Analysis**
+
 ![Revenue Growth](images/revenue-growth-analysis.png)
 
-###Customer Analytics
+**Customer Analytics**
+
 ![Customer Analytics](images/customer-analytics.png)
 
-###Product Analytics
+**Product Analytics**
+
 ![Product Analytics](images/product-analytics.png)
 
-###Customer Satisfaction
+**Customer Satisfaction**
+
 ![Customer Satisfaction](images/customer-satisfaction.png)
 
-###Revenue Risk & Business Insights
+**Revenue Risk & Business Insights**
+
 ![Revenue Risk](images/revenue-risk-business-insights.png)
+
+---
 
 ---
 
